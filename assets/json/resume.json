@@ -7,16 +7,15 @@
     "url": "https://fleph.github.io/",
     "summary": "Dr. Renjie Xu received his B.S. degree in Information and Computational Mathematics in 2017, and his Ph.D. degree in Computational Mathematics in 2024, both from Fudan University, Shanghai, China. He is currently a postdoctoral research fellow at the CityU-Oxford Joint Center for Intelligent Multidimensional Data Analysis, Hong Kong. His research interests include numerical linear algebra and its applications.",
     "location": {
-      "address": "Units 1103 to 1108, 11/F, Building 19W, Hong Kong Science Park, Pak Shek Kok, NT, Hong Kong",
       "city": "Hong Kong",
-      "countryCode": "CN",
-      "region": "China"
+      "countryCode": "China",
+      "region": "Hong Kong"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "Renjie Xu",
+        "url": "https://www.linkedin.com/in/renjie-xu-616042173/"
       }
     ]
   },
