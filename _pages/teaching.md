@@ -3,10 +3,13 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
-nav: false
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+- Fall 2019 Teaching Assistant, Mathematical Modeling, Undergraduate-level, Fudan University, China
+- Spring 2019 Teaching Assistant, Probability Theory, Undergraduate-level, Fudan University, China
+- Fall 2018 Teaching Assistant, Abstract Algebra, Undergraduate-level, Fudan University, China
+- Spring 2018 Teaching Assistant, Advanced Algebra, Undergraduate-level, Fudan University, China
+- Fall 2017 Teaching Assistant, Theoretical Mechanics, Undergraduate-level, Fudan University, China
