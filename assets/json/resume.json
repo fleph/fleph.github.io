@@ -11,7 +11,14 @@
       "city": "Hong Kong",
       "countryCode": "CN",
       "region": "China"
-    }
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
   "work": [
     {
