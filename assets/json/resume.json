@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Renjie Xu",
+    "label": "Postdoctoral Fellow",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "renjie@innocimda.com",
+    "url": "https://fleph.github.io/",
+    "summary": "Dr. Renjie Xu received his B.S. degree in Information and Computational Mathematics in 2017, and his Ph.D. degree in Computational Mathematics in 2024, both from Fudan University, Shanghai, China. He is currently a postdoctoral research fellow at the CityU-Oxford Joint Center for Intelligent Multidimensional Data Analysis, Hong Kong. His research interests include numerical linear algebra and its applications.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Units 1103 to 1108, 11/F, Building 19W, Hong Kong Science Park, Pak Shek Kok, NT, Hong Kong",
+      "city": "Hong Kong",
+      "countryCode": "CN",
+      "region": "China"
     },
     "profiles": [
       {
@@ -24,13 +22,11 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "The CityU-Oxford joint Centre for Intelligent Multidimensional Data Analysis (CIMDA), Science Park, Hong Kong.",
+      "position": "Postdoctoral Fellow",
+      "url": "https://www.innocimda.com/",
+      "startDate": "2024-02",
+      "endDate": "Now"
     }
   ],
   "education": [
