@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: Renjie_Xu_CV.pdf
-description: 
+description:
 toc:
   sidebar: left
 ---
