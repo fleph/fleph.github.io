@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Welcome to my homepage!
-I am a postdoctoral fellow at the Cityu-Oxford joint Centre for Intelligent Multidimensional Data Analysis(CIMDA), Hong Kong.
+I am a postdoctoral scientist at the Cityu-Oxford joint Centre for Intelligent Multidimensional Data Analysis(CIMDA), Hong Kong.
 My advisor is [Hong Yan](<https://scholars.cityu.edu.hk/en/persons/hong-yan(e4dbdba0-cead-46cb-b7e2-ed86fd3cec9b).html>).
 Before joining CIMDA, I earned my Ph.D. from Fudan University, School of Mathematical Sciences in 2024 under the guidance of [Yimin Wei](https://math.fudan.edu.cn/fa/56/c30607a326230/page.htm).
 My academic journey began at Fudan University, where I earned my Bachelor of Science degrees in Information and Computational Mathematics and Data Science in 2017.
