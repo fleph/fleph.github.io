@@ -1,0 +1,17 @@
+current directory: /Users/flephs/academic_blog/fleph.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/flephs/.rubies/ruby-3.1.3/bin/ruby -I /Users/flephs/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/flephs/academic_blog/fleph.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251009-99619-42zbtk sitelibdir\=./.gem.20251009-99619-42zbtk clean
+
+current directory: /Users/flephs/academic_blog/fleph.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251009-99619-42zbtk sitelibdir\=./.gem.20251009-99619-42zbtk
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/flephs/academic_blog/fleph.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251009-99619-42zbtk sitelibdir\=./.gem.20251009-99619-42zbtk install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20251009-99619-42zbtk
