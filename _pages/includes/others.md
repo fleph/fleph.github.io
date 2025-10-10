@@ -9,3 +9,8 @@
 
 # 💻 Internships
 - *2020.07 - 2021.01*, Huawei, Shanghai.
+
+# 🏞️ Hobbies
+- **Hiking** — Certified Outdoor Mountaineering Instructor by the *China Mountaineering Association*  
+- **Football** — Level 3 Referee certified by the *Chinese Football Association*  
+- **Rowing** - Star 2 Qualification by the *Hong Kong, China Rowing Association*
