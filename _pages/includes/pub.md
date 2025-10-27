@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+- <span style="background-color:#0033cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.85em;">AML</span> [Numerical radius approach to asymptotic stability of quaternion-tensor delay systems](https://www.sciencedirect.com/science/article/abs/pii/S0893965925003453), **Renjie Xu**, Wanli Ma, Maolin Che 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuIPS 2025</div><img src='images/DuSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

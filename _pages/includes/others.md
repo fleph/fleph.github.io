@@ -13,4 +13,4 @@
 # 🏞️ Hobbies
 - **Hiking** — Certified Outdoor Mountaineering Instructor by the *China Mountaineering Association*  
 - **Football** — Level 3 Referee certified by the *Chinese Football Association*  
-- **Rowing** — Star 2 Qualification by the *China Rowing Association*
+- **Rowing** — Star 3 Qualification by the *China Rowing Association*
