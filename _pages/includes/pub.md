@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+- <span style="background-color:#0033cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.85em;">IEEE TVT</span> [Evolving Collaborative Differential Evolution for Dynamic Multi-objective UAV Path Planning](https://doi.org/10.1109/TVT.2025.3632847), **Renjie Xu**, Zhaoke Huang, Chenwei Wang, Hong Yan &nbsp;·&nbsp; [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github&logoColor=white)](https://github.com/fleph/ECDE4UAV)
+
 - <span style="background-color:#0033cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.85em;">AML</span> [Numerical radius approach to asymptotic stability of quaternion-tensor delay systems](https://www.sciencedirect.com/science/article/abs/pii/S0893965925003453), **Renjie Xu**, Wanli Ma, Maolin Che 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuIPS 2025</div><img src='images/DuSA.png' alt="sym" width="100%"></div></div>

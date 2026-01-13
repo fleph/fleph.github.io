@@ -1,5 +1,6 @@
 # 🔥 News
 <div markdown="1" style="max-height: 180px; overflow-y: auto !important; border: 1px solid #ccc; padding: 10px; border-radius: 6px; background: #fafafa; line-height: 1.6;">
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Vehicular Technology
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by Applied Mathematics Letters
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by Linear and Multilinear Algebra
