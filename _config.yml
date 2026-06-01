@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Renjie Xu (许仁杰)"
-description              : "Focusing on Numerical Linear Algebra and Optimization for Stable and Efficient AI"
+description              : "Researcher @ Joy Future Academy"
 repository               : "fleph/fleph.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Renjie Xu (许仁杰)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
-  location         : "Hong Kong"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UydlE6AAAAAJ"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "renjie-xu-616042173" 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-6951-7273"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

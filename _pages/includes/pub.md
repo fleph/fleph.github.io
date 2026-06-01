@@ -4,12 +4,17 @@
 
 - <span style="background-color:#0033cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.85em;">AML</span> [Numerical radius approach to asymptotic stability of quaternion-tensor delay systems](https://www.sciencedirect.com/science/article/abs/pii/S0893965925003453), **Renjie Xu**, Wanli Ma, Maolin Che 
 
+- <span style="background-color:#0033cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.85em;">NeurIPS 2025</span> [DuSA: Fast and Accurate Dual-Stage Sparse Attention Mechanism Accelerating Both Training and Inference](https://neurips.cc/virtual/2025/poster/115603), Chong Wu, Jiawang Cao, **Renjie Xu**, Zhuoheng Ran, Maolin Che, Wenbo Zhu, Hong Yan
+
+<!--
+Original featured DuSA block kept for reference.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuIPS 2025</div><img src='images/DuSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DuSA: Fast and Accurate Dual-Stage Sparse Attention Mechanism Accelerating Both Training and Inference](https://neurips.cc/virtual/2025/poster/115603)
 
-Chong Wu, Jiawang Cao, **Renjie Xu**, Zhuoheng Ran, Maolin Che, Wenbo Zhu, Hong Yan 
+Chong Wu, Jiawang Cao, **Renjie Xu**, Zhuoheng Ran, Maolin Che, Wenbo Zhu, Hong Yan
 
 
 - A novel and effective dual-stage sparse attention (DuSA) mechanism
@@ -18,8 +23,7 @@ Chong Wu, Jiawang Cao, **Renjie Xu**, Zhuoheng Ran, Maolin Che, Wenbo Zhu, Hong 
 - DuSA surpasses state-of-the-art (SOTA) methods in different tasks
 </div>
 </div>
-
-
+-->
 
 - <span style="background-color:#0033cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.85em;">LMA</span> [LU decomposition and generalized Autoone-Takagi decomposition of dual matrices and their applications](https://www.tandfonline.com/doi/abs/10.1080/03081087.2025.2549396), **Renjie Xu**, Yimin Wei, Hong Yan &nbsp;·&nbsp; [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github&logoColor=white)](https://github.com/fleph/Dual-Matrix-Decomposition-Toolbox)
 - <span style="background-color:#0033cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.85em;">IJPAM</span> [A Linearized Alternating Direction Method of Multipliers for Solving Complex Semi-Symmetric Tensor Equations and its Applications](https://link.springer.com/article/10.1007/s13226-025-00812-7), Shenghao Feng, Yimin Wei, **Renjie Xu**, Eric King-wah Chu
