@@ -126,6 +126,12 @@ defaults:
     values:
       layout: default
       author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author_profile: true
 
 
 # Sass/SCSS
