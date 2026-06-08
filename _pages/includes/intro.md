@@ -1,4 +1,4 @@
- I am currently a **Researcher** at **Joy Future Academy**. Previously, I was a **Postdoctoral Fellow** at the [CityU–Oxford Joint Centre for Intelligent Multidimensional Data Analysis (CIMDA)](https://www.innocimda.com/index.html), Hong Kong, advised by [Prof. Hong Yan](https://www.ee.cityu.edu.hk/~hpyan/). I received my **B.S.** degrees in *Information and Computational Mathematics* from the [School of Mathematical Sciences, Fudan University](https://math.fudan.edu.cn/), and in *Data Science* from the [School of Data Science, Fudan University](https://sds.fudan.edu.cn/).  I also obtained my **Ph.D.** in *Computational Mathematics* from the [School of Mathematical Sciences, Fudan University](https://math.fudan.edu.cn/).
+ <!--I am currently a **Researcher** at **Joy Future Academy**. Previously, I was a **Postdoctoral Fellow** at the [CityU–Oxford Joint Centre for Intelligent Multidimensional Data Analysis (CIMDA)](https://www.innocimda.com/index.html), Hong Kong, advised by [Prof. Hong Yan](https://www.ee.cityu.edu.hk/~hpyan/). I received my **B.S.** degrees in *Information and Computational Mathematics* from the [School of Mathematical Sciences, Fudan University](https://math.fudan.edu.cn/), and in *Data Science* from the [School of Data Science, Fudan University](https://sds.fudan.edu.cn/).  I also obtained my **Ph.D.** in *Computational Mathematics* from the [School of Mathematical Sciences, Fudan University](https://math.fudan.edu.cn/). -->
  
  <!--, advised by [Prof. Yimin Wei](https://math.fudan.edu.cn/fa/56/c30607a326230/page.htm). -->
 
@@ -7,6 +7,8 @@
 <!-- Current research interests sentence hidden:
 My research interests lie in AI infrastructure, numerical linear algebra, and optimization, with a focus on efficient training and inference for large-scale models.
 -->
+I am currently a **Researcher** at **Joy Future Academy**. Previously, I was a **Postdoctoral Fellow** at the [CityU–Oxford Joint Centre for Intelligent Multidimensional Data Analysis (CIMDA)](https://www.innocimda.com/index.html), Hong Kong, advised by [Prof. Hong Yan](https://www.ee.cityu.edu.hk/~hpyan/). I received my **B.S.** degrees from the School of Mathematical Sciences, Fudan University, and the School of Data Science, Fudan University.  I also obtained my **Ph.D.** from the School of Mathematical Sciences, Fudan University.
+
 
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=UydlE6AAAAAJ) <a href='https://scholar.google.com/citations?user=UydlE6AAAAAJ=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 <!-- <a href='https://scholar.google.com/citations?user=UydlE6AAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=Google%20Scholar&logoColor=white&labelColor=4285F4&color=lightgrey&style=flat&label=citations"></a> -->
