@@ -1,2 +1,6 @@
 jsonpickle==1.4.2
 scholarly==1.5.1
+# bibtexparser 2.x (released 2026-09-08) removed the `bibtexparser.bibdatabase`
+# module, which makes `import scholarly` fail with ModuleNotFoundError.
+# Pin to 1.x until scholarly supports bibtexparser 2.
+bibtexparser==1.4.4
